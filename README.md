@@ -1,1 +1,1 @@
-# Customer-Segementaion-and-Profiling
+# Customer-Segementation-and-Profiling
