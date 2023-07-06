@@ -15,4 +15,4 @@
 - Step 4: Customer Profling
 - Step 5: Recommendation
 
-** Note: For interactive notebook of google colab, click on this link [link]([https://pages.github.com/](https://colab.research.google.com/drive/1CsaNNxMNvsRo7VjETT9Ok-MOuJ0tBb2P#scrollTo=de6309b5-2d9c-40ae-824d-15e590a712ed)https://colab.research.google.com/drive/1CsaNNxMNvsRo7VjETT9Ok-MOuJ0tBb2P#scrollTo=de6309b5-2d9c-40ae-824d-15e590a712ed).
+** Note: For interactive notebook of google colab, click on this [link](https://colab.research.google.com/drive/1CsaNNxMNvsRo7VjETT9Ok-MOuJ0tBb2P#scrollTo=de6309b5-2d9c-40ae-824d-15e590a712ed)
