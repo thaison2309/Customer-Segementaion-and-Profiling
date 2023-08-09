@@ -1,5 +1,8 @@
 # Customer-Segementation-and-Profiling
-** Note: For interactive notebook of google colab, click on this [link](https://colab.research.google.com/drive/1CsaNNxMNvsRo7VjETT9Ok-MOuJ0tBb2P#scrollTo=de6309b5-2d9c-40ae-824d-15e590a712ed)
+<span style="font-weight:700;font-size:200px">
+    ** Note: For interactive notebook of google colab, click on this <a href="https://colab.research.google.com/drive/1CsaNNxMNvsRo7VjETT9Ok-MOuJ0tBb2P#scrollTo=de6309b5-2d9c-40ae-824d-15e590a712ed"> Link. <a> 
+</span>
+
 
 # Context
 - Company X is a blockchain company operating in the field of Crypto Currency. The company product, Wallet K, is a digital wallet that allows users to make transactions with crypto, buy and sell crypto.
