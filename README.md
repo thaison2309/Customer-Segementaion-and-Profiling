@@ -1,7 +1,7 @@
 # Customer-Segementation-and-Profiling
-<span style="font-weight:700;font-size:200px">
+<h3>
     ** Note: For interactive notebook of google colab, click on this <a href="https://colab.research.google.com/drive/1CsaNNxMNvsRo7VjETT9Ok-MOuJ0tBb2P#scrollTo=de6309b5-2d9c-40ae-824d-15e590a712ed"> Link. <a> 
-</span>
+</h3>
 
 
 # Context
