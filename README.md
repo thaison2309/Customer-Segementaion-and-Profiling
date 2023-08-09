@@ -14,9 +14,15 @@
 - Segment the customers into different groups and describe their distinct traits.
 - Propose valid and relevent action toward appropriate groups.
 # Process
-- Step 1: Data cleaning
-- Step 2: Feature Engineering
-- Step 3: Segmentation Algorithm
-- Step 4: Customer Profling
-- Step 5: Recommendation
-
+- Step 1: Data cleaning.
+- Step 2: Feature Engineering.
+- Step 3: Segmentation Algorithm.
+- Step 4: Customer Profling.
+- Step 5: Recommendation.
+# Conclusion (For more detailed conclusion and relevant recommendation, access the interactive notebook or Reporting slides)
+ - After running the K-mean algorithm, there are 5 distintive segments of customers to be found:
+   + Cluster 0: Professional trader and Venezuelan
+   + Cluster 1: The sage
+   + Cluster 2: The security seeker
+   + Cluster 3: The rising star
+   + Cluster 4: The chancy
